@@ -10,7 +10,7 @@ redirect_from:
 
 <!---
 <p align="center">
-  <img src="https://github.com/" alt="Photo" style="width: 300px;"/> 
+  <img src="https://github.com/ekinugurel/ekinugurel.github.io/images/Facetune_24-03-2023-22-00-33.jpg" alt="Photo" style="width: 300px;"/> 
 </p>
 -->
 
