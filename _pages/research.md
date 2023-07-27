@@ -17,4 +17,4 @@ Ekin Ugurel, Shuai Huang, Cynthia Chen
 *Prepring coming soon*.
 
 **Time-varying Transition Matrices with Multi-task Gaussian Processes**
-Ekin Ugurel
+Ekin Ugurel [[pdf]](https://arxiv.org/abs/2306.11772)
