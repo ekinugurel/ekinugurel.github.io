@@ -23,6 +23,8 @@ My research aims to innovate novel methods to model mobile data (i.e. GPS traces
 *Email:* ugurel@uw.edu
 
 ## News
+* 2023 - Invited talk at the 2023 Asia-Pacific Signal and Information Processing Association (APSIPA)
+* 2023 - Invited submission for the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25)
 * 2023 - Invited talk at the 2023 Annual INFORMS Conference in Phoenix, Arizona on Large-scale Data Analytics for Transportation Systems
 * 2022 - Started summer internship as a Consulting Intern at Fehr & Peers in Seattle, WA
 * 2022 - Invited talk at the 2023 Annual Transportation Research Board (TRB) Conference in Washington, DC on Correcting Missingness in Passively-generated Mobile data with Multi-task Gaussian Processes
