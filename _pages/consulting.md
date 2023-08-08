@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Consulting"
-permalink: https://ekinugurel.github.io/ugureldatasolutions/
+permalink: /consulting/
 author_profile: true
 redirect_from:
   - /consulting/
+redirect_to:
+  - https://ekinugurel.github.io/ugureldatasolutions/
 ---
 
 {% include base_path %}
