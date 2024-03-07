@@ -21,7 +21,7 @@ permalink: /research/
 *In review*.
 
 **Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**        
-**Ekin Ugurel**, Steffen Coenen, Minda Zhou Chen, Cynthia Chen [[pdf]](https://arxiv.org/abs/2401.10890)
+**Ekin Ugurel**, Steffen Coenen, Minda Zhou Chen, Cynthia Chen [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
 
 **Time-varying Transition Matrices with Multi-task Gaussian Processes**        
 **Ekin Ugurel** [[pdf]](https://arxiv.org/abs/2306.11772)
@@ -38,7 +38,7 @@ Grace Jia, Kaitlyn Ng, **Ekin Ugurel**, Brian Lee, Ram Pendyala, Cynthia Chen
 Arsalan Esmaili, Shakiba Naderian, **Ekin Ugurel**, Jeff Ban, Cynthia Chen              
 *Preprint coming soon*. 
 
-**The Effects of Sparsity in Location-based Service Data on Derived Human Mobility Metrics**
+**The Effects of Sparsity in Location-based Service Data on Derived Human Mobility Metrics**              
 Xinhua Wu, Yanchao Wang, **Ekin Ugurel**, Shuai Huang, Cynthia Chen, Qi "Ryan" Wang      
 *Preprint coming soon*.
 
