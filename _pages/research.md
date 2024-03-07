@@ -10,7 +10,7 @@ permalink: /research/
 
 **Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes**   
 **Ekin Ugurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
-*In review*.
+*Transportation Research Part C: Emerging Technologies*. [[pdf]](https://authors.elsevier.com/a/1ij85,M0mRV96z) [[code]](https://github.com/ekinugurel/GPSImpute)
 
 **Uncovering Physics-regularized Data Generation Processes for Individual Human Mobility: A Multi-task Gaussian Process Approach based on Multiple Kernel Learning**           
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen   
