@@ -23,12 +23,14 @@ My research aims to innovate novel methods to model mobile data (i.e. GPS traces
 *Email:* ugurel@uw.edu
 
 ## News
+* 2024 - Joined Instacart as an Machine Learning (ML) PhD summer intern
+* 2024 - Invited podium presentation at the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
 * 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" [[pdf]](https://authors.elsevier.com/a/1ij85,M0mRV96z) [[code]](https://github.com/ekinugurel/GPSImpute)
 * 2024 - New preprint out! "Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces" [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
 * 2024 - Invited workshop host at the 2024 Association of Metropolitan Planning Organizations (AMPO) on MPO uses of and needs for big data
 * 2024 - Invited talk at the 2024 Annual INFORMS Conference in Seattle, WA on Behavioral-informed Analytics and Decision-making for Urban Transportation Systems
 * 2023 - Invited talk at the 2023 Asia-Pacific Signal and Information Processing Association (APSIPA)
-* 2023 - Invited submission for the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25)
+* 2023 - Invited submission for ISTTT 25
 * 2023 - Invited talk at the 2023 Annual INFORMS Conference in Phoenix, Arizona on Large-scale Data Analytics for Transportation Systems
 * 2022 - Started summer internship as a Consulting Intern at Fehr & Peers in Seattle, WA
 * 2022 - Invited talk at the 2023 Annual Transportation Research Board (TRB) Conference in Washington, DC on Correcting Missingness in Passively-generated Mobile data with Multi-task Gaussian Processes
