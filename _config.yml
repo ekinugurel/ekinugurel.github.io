@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ekin Ugurel"
   avatar           : "ekin.jpg"
-  bio              : "PhD student at the University of Washington, advised by Cynthia Chen (CEE) & Shuai Huang (ISE). Interested in kernel methods for data science, Gaussian processes, and human mobility analysis."
+  bio              : "PhD student at the University of Washington, advised by Cynthia Chen (CEE) & Shuai Huang (ISE). Interested in the intersection of contemporary ML and travel behavior."
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ekin-ugurel"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0849-4688"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
