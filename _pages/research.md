@@ -6,7 +6,7 @@ author_profile: true
 permalink: /research/
 ---
 
-## Research
+## Papers + Code
 
 **Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes**   
 **Ekin Ugurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
@@ -14,7 +14,7 @@ permalink: /research/
 
 **Uncovering Physics-regularized Data Generation Processes for Individual Human Mobility: A Multi-task Gaussian Process Approach based on Multiple Kernel Learning**           
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen   
-*In review*.
+*25th International Symposium on Transportation and Traffic Theory (ISTTT)*. Ann Arbor, MI. In proceedings. [[pdf]](https://limos.engin.umich.edu/isttt25/wp-content/uploads/sites/3/sites/4/2024/06/ISTTT25-proceedings-015-min.pdf)
 
 **When will you leave for work? Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**          
 **Ekin Ugurel**, Gaoang Wang      
