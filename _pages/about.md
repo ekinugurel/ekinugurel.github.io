@@ -27,18 +27,19 @@ You can reach me at the following email (CV available upon request).
 *Email:* ugurel@uw.edu
 
 ## News
-* 2024 - Served as a co-project lead on a Data Science for Social Good (DSSG) project @ the eScience Institute [[website]](https://dssg24-cf-fairness.github.io/website/)
-* 2024 - Joined Instacart as an Machine Learning (ML) PhD summer intern
-* 2024 - Invited podium presentation at the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
-* 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" [[pdf]](https://authors.elsevier.com/a/1ij85,M0mRV96z) [[code]](https://github.com/ekinugurel/GPSImpute)
-* 2024 - New preprint out! "Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces" [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
-* 2024 - Invited workshop host at the 2024 Association of Metropolitan Planning Organizations (AMPO) on MPO uses of and needs for big data
-* 2024 - Invited talk at the 2024 Annual INFORMS Conference in Seattle, WA on Behavioral-informed Analytics and Decision-making for Urban Transportation Systems
-* 2023 - Invited talk at the 2023 Asia-Pacific Signal and Information Processing Association (APSIPA)
-* 2023 - Invited submission for ISTTT 25
-* 2023 - Invited talk at the 2023 Annual INFORMS Conference in Phoenix, Arizona on Large-scale Data Analytics for Transportation Systems
-* 2022 - Started summer internship as a Consulting Intern at Fehr & Peers in Seattle, WA
-* 2022 - Invited talk at the 2023 Annual Transportation Research Board (TRB) Conference in Washington, DC on Correcting Missingness in Passively-generated Mobile data with Multi-task Gaussian Processes
-* 2021 - Joined the [THINK](https://sites.uw.edu/thinklab/) lab at the University of Washington-Seattle
-* 2021 - Graduated with a B.S. in Civil Engineering Honors and a Minor in Business Foundations from the University of Texas at Austin
-* 2021 - Awarded a [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships#:~:text=field%20of%20study.-,To%20be%20eligible%20to%20apply%20for%20this%20fellowship%2C%20students%20must,coursework%20completed%20at%20the%20UW.) from the University of Washington
+* 2024 - New journal publication out! "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning" in Transportation Research Part B: Methodological. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+* 2024 - Served as a co-project lead on a Data Science for Social Good (DSSG) project @ the eScience Institute. [[website]](https://dssg24-cf-fairness.github.io/website/)
+* 2024 - Joined Instacart as an Machine Learning (ML) PhD summer intern.
+* 2024 - Invited podium presentation at the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25). [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+* 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" in Transportation Research Part C: Emerging Technologies. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
+* 2024 - New preprint out! "Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces". [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
+* 2024 - Invited workshop host at the 2024 Association of Metropolitan Planning Organizations (AMPO) on MPO uses of and needs for big data.
+* 2024 - Invited talk at the 2024 Annual INFORMS Conference in Seattle, WA on Behavioral-informed Analytics and Decision-making for Urban Transportation Systems.
+* 2023 - Invited talk at the 2023 Asia-Pacific Signal and Information Processing Association (APSIPA).
+* 2023 - Invited submission for ISTTT 25.
+* 2023 - Invited talk at the 2023 Annual INFORMS Conference in Phoenix, Arizona on Large-scale Data Analytics for Transportation Systems.
+* 2022 - Started summer internship as a Consulting Intern at Fehr & Peers in Seattle, WA.
+* 2022 - Invited talk at the 2023 Annual Transportation Research Board (TRB) Conference in Washington, DC on Correcting Missingness in Passively-generated Mobile data with Multi-task Gaussian Processes.
+* 2021 - Joined the [THINK](https://sites.uw.edu/thinklab/) lab at the University of Washington-Seattle.
+* 2021 - Graduated with a B.S. in Civil Engineering Honors and a Minor in Business Foundations from the University of Texas at Austin.
+* 2021 - Awarded a [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships#:~:text=field%20of%20study.-,To%20be%20eligible%20to%20apply%20for%20this%20fellowship%2C%20students%20must,coursework%20completed%20at%20the%20UW.) from the University of Washington.
