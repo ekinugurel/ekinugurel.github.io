@@ -8,9 +8,13 @@ permalink: /research/
 
 ## Papers + Code
 
+**Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning**     
+**Ekin Ugurel**, Shuai Huang, Cynthia Chen       
+*Transportation Research Part B: Methodological*. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+
 **Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes**   
 **Ekin Ugurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
-*Transportation Research Part C: Emerging Technologies*. [[pdf]](https://authors.elsevier.com/a/1ij85,M0mRV96z) [[code]](https://github.com/ekinugurel/GPSImpute)
+*Transportation Research Part C: Emerging Technologies*. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
 
 **Uncovering Physics-regularized Data Generation Processes for Individual Human Mobility: A Multi-task Gaussian Process Approach based on Multiple Kernel Learning**           
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen   
