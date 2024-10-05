@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching + Mentorship
 **CET 512: Transportation Data Collection**        
-Autumn 2024 - Primary Instructor            
+Autumn 2024 - Sole Instructor            
 [Register Here](https://myplan.uw.edu/course/#/courses/CET512)
 
 Winter 2023 - Teaching Assistant
