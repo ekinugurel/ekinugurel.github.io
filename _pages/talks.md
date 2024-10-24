@@ -9,7 +9,7 @@ author_profile: true
 **ISTTT 25** (Ann Arbor, MI, USA)       
 "Uncovering physics-regularized data generation processes for individual human mobility: A multi-task Gaussian process approach based on multiple kernel learning." 
 
-**INFORMS 2024** (Seattle, WA, USA)          
+**INFORMS 2024 Annual Conference** (Seattle, WA, USA)          
 "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning"
 
 **Big Data Workshop - 2024 AMPO Planning Tools & Training Symposium** (Albuquerque, NM, USA)                      
@@ -21,10 +21,10 @@ author_profile: true
 **Graduate Seminar - IND E 592 (Wi24)** (Seattle, WA, USA)                 
 "Uncovering physics-regularized data generation processes for individual human mobility: A multi-task Gaussian process approach based on multiple kernel learning" [[slides]](https://ekinugurel.github.io/files/Research_Presentation__Feb_13th__2024_.pdf)
 
-**APSIPA ASC 2023** (Taipei, Taiwan)    
+**APSIPA ASC 2023** (Taipei, Taiwan)              
 "Multi-task, Multi-kernel Learning for Location Based-Service (LBS) Data" [[slides]](https://ekinugurel.github.io/files/APSIPA_presentation.pdf)
 
-**INFORMS 2023 Annual Conference** (Phoenix, AZ, USA)
+**INFORMS 2023 Annual Conference** (Phoenix, AZ, USA)         
 "A Physics-informed, Multi-task Gaussian Process with Multiple Kernel Learning to Uncover Mobile Data Generation Processes" [[slides]](https://ekinugurel.github.io/files/INFORMS_2023_clean.pdf)
 
 **Transportation Research Board 2023 Annual Conference** (Washington, DC, USA)   
