@@ -7,6 +7,9 @@ permalink: /research/
 ---
 
 ## Papers + Code
+**Metropolitan Planning Organizations' Uses of and Needs for Big Data**                  
+**Ekin Ugurel**, Xinhua Wu, Ryan Wang, Brian H. Lee, Cynthia Chen            
+*Transport Findings*. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
 
 **Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning**     
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen       
@@ -24,7 +27,7 @@ permalink: /research/
 **Ekin Ugurel**, Gaoang Wang      
 *In review*.
 
-**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**        
+**Incident detection from novel data sources: Leveraging satellite imagery alongside GPS traces**        
 **Ekin Ugurel**, Steffen Coenen, Minda Zhou Chen, Cynthia Chen [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
 
 **Time-varying Transition Matrices with Multi-task Gaussian Processes**        
