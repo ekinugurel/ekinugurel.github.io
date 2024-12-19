@@ -27,11 +27,12 @@ You can reach me at the following email (CV available upon request).
 *Email:* ugurel@uw.edu
 
 ## News
-* 2024 - New journal publication out! "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning" in Transportation Research Part B: Methodological. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
-* 2024 - Served as a co-project lead on a Data Science for Social Good (DSSG) project @ the eScience Institute. [[website]](https://dssg24-cf-fairness.github.io/website/)
+* 2024 - New journal publication out! "Metropolitan Planning Organizations' Uses of and Needs for Big Data" in _Transport Findings_. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
+* 2024 - New journal publication out! "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning" in _Transportation Research Part B: Methodological_. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+* 2024 - Served as a co-project lead on a _Data Science for Social Good_ (DSSG) project @ the eScience Institute. [[website]](https://dssg24-cf-fairness.github.io/website/)
 * 2024 - Joined Instacart as an Machine Learning (ML) PhD summer intern.
 * 2024 - Invited podium presentation at the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25). [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
-* 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" in Transportation Research Part C: Emerging Technologies. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
+* 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" in _Transportation Research Part C: Emerging Technologies_. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
 * 2024 - New preprint out! "Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces". [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
 * 2024 - Invited workshop host at the 2024 Association of Metropolitan Planning Organizations (AMPO) on MPO uses of and needs for big data.
 * 2024 - Invited talk at the 2024 Annual INFORMS Conference in Seattle, WA on Behavioral-informed Analytics and Decision-making for Urban Transportation Systems.
