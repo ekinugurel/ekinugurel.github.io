@@ -9,33 +9,35 @@ permalink: /research/
 ## Papers + Code
 **Metropolitan Planning Organizations' Uses of and Needs for Big Data**                  
 **Ekin Ugurel**, Xinhua Wu, Ryan Wang, Brian H. Lee, Cynthia Chen            
-*Transport Findings*. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
+*Transport Findings*. 2024. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
 
 **Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning**     
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen       
-*Transportation Research Part B: Methodological*. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+*Transportation Research Part B: Methodological*. 2024. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
 
 **Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes**   
 **Ekin Ugurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
-*Transportation Research Part C: Emerging Technologies*. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
+*Transportation Research Part C: Emerging Technologies*. 2024. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
+
+**Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities**          
+Yanchao Wang, Xiangyang Guan, **Ekin Ugurel**, Cynthia Chen, Shuai Huang, Qi "Ryan" Wang        
+*Journal of Transport Geography*. 2025. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
 
 **Uncovering Physics-regularized Data Generation Processes for Individual Human Mobility: A Multi-task Gaussian Process Approach based on Multiple Kernel Learning**           
 **Ekin Ugurel**, Shuai Huang, Cynthia Chen   
-*25th International Symposium on Transportation and Traffic Theory (ISTTT)*. Ann Arbor, MI. In proceedings. [[pdf]](https://limos.engin.umich.edu/isttt25/wp-content/uploads/sites/3/sites/4/2024/06/ISTTT25-proceedings-015-min.pdf)
+*25th International Symposium on Transportation and Traffic Theory (ISTTT)*. 2024. Ann Arbor, MI. In proceedings. [[pdf]](https://limos.engin.umich.edu/isttt25/wp-content/uploads/sites/3/sites/4/2024/06/ISTTT25-proceedings-015-min.pdf)
 
-**When will you leave for work? Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**          
+**Beat the Morning Rush: Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**      
 **Ekin Ugurel**, Gaoang Wang      
 *In review*.
 
 **Incident detection from novel data sources: Leveraging satellite imagery alongside GPS traces**        
-**Ekin Ugurel**, Steffen Coenen, Minda Zhou Chen, Cynthia Chen [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
+**Ekin Ugurel**, Steffen Coenen, Minda Zhou Chen, Cynthia Chen.      
+*Preprint*. 2023. [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
 
 **Time-varying Transition Matrices with Multi-task Gaussian Processes**        
-**Ekin Ugurel** [[pdf]](https://arxiv.org/abs/2306.11772)
-
-**Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities**          
-Yanchao Wang, Xiangyang Guan, **Ekin Ugurel**, Cynthia Chen, Shuai Huang, Qi "Ryan" Wang        
-*In review*.
+**Ekin Ugurel**                  
+*Preprint*. 2023. [[pdf]](https://arxiv.org/abs/2306.11772)
 
 **COVID & Telecommuting Induced Changes in Individual Activity and Travel Patterns**      
 Grace Jia, Kaitlyn Ng, **Ekin Ugurel**, Brian Lee, Ram Pendyala, Cynthia Chen        
