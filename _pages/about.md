@@ -27,6 +27,8 @@ You can reach me at the following email (CV available upon request).
 *Email:* ugurel@uw.edu
 
 ## News
+* 2025 - New journal publication out! "Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities" in the _Journal of Transport Geography_ [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
+* 2024 - Granted the Michael Kyte Region 10 Outstanding Student of the Year Award from PacTrans.
 * 2024 - New journal publication out! "Metropolitan Planning Organizations' Uses of and Needs for Big Data" in _Transport Findings_. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
 * 2024 - New journal publication out! "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning" in _Transportation Research Part B: Methodological_. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
 * 2024 - Served as a co-project lead on a _Data Science for Social Good_ (DSSG) project @ the eScience Institute. [[website]](https://dssg24-cf-fairness.github.io/website/)
