@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ekin Ugurel"
+title                    : "Ekin Uğurel"
 title_separator          : "-"
-name                     : &name "Ekin Ugurel"
-description              : &description "Ekin Ugurel"
+name                     : &name "Ekin Uğurel"
+description              : &description "Ekin Uğurel"
 url                      : https://ekinugurel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekinugurel/ekinugurel.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ekin Ugurel"
+  name             : "Ekin Uğurel"
   avatar           : "ekin.jpg"
-  bio              : "PhD student at the University of Washington, advised by Cynthia Chen (CEE) & Shuai Huang (ISE). Interested in the intersection of contemporary ML and travel behavior."
+  bio              : "PhD Candidate at the University of Washington, advised by Cynthia Chen (CEE) & Shuai Huang (ISE). Interested in the intersection of contemporary ML and travel behavior."
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
