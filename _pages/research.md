@@ -7,6 +7,10 @@ permalink: /research/
 ---
 
 ## Papers + Code
+**A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models**              
+Jiaqi He, Apoorva Sheera, Jack McFarland, Feiyang Wang, Manurag Khullar, Sakshi Chavan, Bernease Herman, **Ekin Uğurel**, Afra Mashhadi             
+*ACM Journal on Computing and Sustainable Societies*. 2025. [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
+
 **Beat the Morning Rush: Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**      
 **Ekin Uğurel**, Gaoang Wang      
 *IEEE Open Journal of Intelligent Transportation Systems*. 2025. [[pdf]](https://ieeexplore.ieee.org/document/10897825)
