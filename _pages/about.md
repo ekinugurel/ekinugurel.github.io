@@ -27,6 +27,7 @@ You can reach me at the following email (CV available upon request).
 *Email:* ugurel@uw.edu
 
 ## News
+* 2025 - New journal publication out! "A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models" in the _ACM Journal on Computing and Sustainable Societies_ [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
 * 2025 - New journal publication out! "Beat the Morning Rush: Survival Analysis-Informed DNNs with Collaborative Filtering to Predict Departure Times" in the _IEEE Open Journal of Intelligent Transportation Systems_ [[pdf]](https://ieeexplore.ieee.org/document/10897825)
 * 2025 - New journal publication out! "Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities" in the _Journal of Transport Geography_ [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
 * 2024 - Granted the Michael Kyte Region 10 Outstanding Student of the Year Award from PacTrans.
