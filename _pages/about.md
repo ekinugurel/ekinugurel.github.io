@@ -27,6 +27,7 @@ You can reach me at the following email (CV available upon request).
 *Email:* ugurel@uw.edu
 
 ## News
+* 2025 - I started a visiting Ph.D. role with the [Machine Learning for Smart Mobility](https://mlsm.man.dtu.dk/) group at the Technical University of Denmark (DTU), supervised by [Professor Filipe Rodrigues](https://orbit.dtu.dk/en/persons/filipe-m-pereira-duarte-rodrigues). I will be here until September :)
 * 2025 - New journal publication out! "A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models" in the _ACM Journal on Computing and Sustainable Societies_ [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
 * 2025 - New journal publication out! "Beat the Morning Rush: Survival Analysis-Informed DNNs with Collaborative Filtering to Predict Departure Times" in the _IEEE Open Journal of Intelligent Transportation Systems_ [[pdf]](https://ieeexplore.ieee.org/document/10897825)
 * 2025 - New journal publication out! "Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities" in the _Journal of Transport Geography_ [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
