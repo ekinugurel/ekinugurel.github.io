@@ -7,10 +7,6 @@ permalink: /research/
 ---
 
 ## Papers + Code
-**A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models**              
-Jiaqi He, Apoorva Sheera, Jack McFarland, Feiyang Wang, Manurag Khullar, Sakshi Chavan, Bernease Herman, **Ekin Uğurel**, Afra Mashhadi             
-*ACM Journal on Computing and Sustainable Societies*. 2025. [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
-
 **Beat the Morning Rush: Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**      
 **Ekin Uğurel**, Gaoang Wang      
 *IEEE Open Journal of Intelligent Transportation Systems*. 2025. [[pdf]](https://ieeexplore.ieee.org/document/10897825)
@@ -27,6 +23,14 @@ Jiaqi He, Apoorva Sheera, Jack McFarland, Feiyang Wang, Manurag Khullar, Sakshi 
 **Ekin Uğurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
 *Transportation Research Part C: Emerging Technologies*. 2024. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
 
+**COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region**      
+Grace Jia, Kaitlyn Ng, **Ekin Uğurel**, Brian Lee, Ram Pendyala, Cynthia Chen        
+*Transport Policy*. 2025. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0967070X25003154)
+
+**A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models**              
+Jiaqi He, Apoorva Sheera, Jack McFarland, Feiyang Wang, Manurag Khullar, Sakshi Chavan, Bernease Herman, **Ekin Uğurel**, Afra Mashhadi             
+*ACM Journal on Computing and Sustainable Societies*. 2025. [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
+
 **Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities**          
 Yanchao Wang, Xiangyang Guan, **Ekin Uğurel**, Cynthia Chen, Shuai Huang, Qi "Ryan" Wang        
 *Journal of Transport Geography*. 2025. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
@@ -42,17 +46,5 @@ Yanchao Wang, Xiangyang Guan, **Ekin Uğurel**, Cynthia Chen, Shuai Huang, Qi "R
 **Time-varying Transition Matrices with Multi-task Gaussian Processes**        
 **Ekin Uğurel**                  
 *Preprint*. 2023. [[pdf]](https://arxiv.org/abs/2306.11772)
-
-**COVID & Telecommuting Induced Changes in Individual Activity and Travel Patterns**      
-Grace Jia, Kaitlyn Ng, **Ekin Uğurel**, Brian Lee, Ram Pendyala, Cynthia Chen        
-*Preprint coming soon*.
-
-**Understanding Transit Ridership Recovery Patterns with Two Perspectives: Rebounding from Rock Bottom or Proximity to pre-COVID Ridership**      
-Arsalan Esmaili, Shakiba Naderian, **Ekin Uğurel**, Jeff Ban, Cynthia Chen              
-*Preprint coming soon*. 
-
-**The Effects of Sparsity in Location-based Service Data on Derived Human Mobility Metrics**              
-Xinhua Wu, Yanchao Wang, **Ekin Uğurel**, Shuai Huang, Cynthia Chen, Qi "Ryan" Wang      
-*Preprint coming soon*.
 
 
