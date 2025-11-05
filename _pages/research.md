@@ -23,6 +23,10 @@ permalink: /research/
 **Ekin Uğurel**, Xiangyang Guan, Yanchao Wang, Shuai Huang, Ryan Wang, Cynthia Chen  
 *Transportation Research Part C: Emerging Technologies*. 2024. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
 
+**From biases to opportunities: leveraging Location-Based-Service (LBS) data for next-generation transportation planning**               
+Cynthia Chen, Ryan Wang, Prateek Bansal, Lyra Chen, **Ekin Ugurel**, Yuteng Zhang, Xinhua Wu                              
+*Transportation Research Part C: Emerging Technologies*. 2025. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X25004206)
+
 **COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region**      
 Grace Jia, Kaitlyn Ng, **Ekin Uğurel**, Brian Lee, Ram Pendyala, Cynthia Chen        
 *Transport Policy*. 2025. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0967070X25003154)
