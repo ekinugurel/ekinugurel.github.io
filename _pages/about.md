@@ -18,13 +18,11 @@ redirect_from:
 
 I am a Postdoctoral Researcher at New York University, affiliated with NYU Tandon and the Center for Urban Science and Progress (CUSP). I earned my PhD in Transportation Engineering from the University of Washington in December 2025, where I was lucky to be co-advised by [Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen) and [Shuai Huang](https://www.shuaihuang.info/). My doctoral work was partially supported by the [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships#:~:text=field%20of%20study.-,To%20be%20eligible%20to%20apply%20for%20this%20fellowship%2C%20students%20must,coursework%20completed%20at%20the%20UW.) and the [Valle Fellowship](https://www.ce.washington.edu/current/abroad/valle), which enabled me to spend time as a Visiting PhD student at the Technical University of Denmark, hosted by [Filipe Rodrigues](https://fprodrigues.com/). Prior to UW, I received my bachelor’s degree in Civil Engineering from the University of Texas at Austin, where I conducted research with [Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel), supported by several merit-based scholarships.
 
-My research focuses on developing machine learning methods for modeling human and organizational decision-making in transportation and urban systems. I am particularly interested in probabilistic modeling, kernel methods, and representation learning for complex, high-dimensional data, with an emphasis on uncertainty, bias, and interpretability.
-
-More broadly, I work at the intersection of high-dimensional probability, generative modeling, and causal inference, motivated by real-world planning and policy challenges. My goal is to bridge traditional travel behavior and demand modeling with modern machine learning in ways that directly support decision-making by public agencies, planners, and operators.
+My research focuses on developing machine learning frameworks to model human and organizational decision-making within complex transportation and urban systems. I leverage probabilistic modeling, kernel methods, and representation learning to extract insights from high-dimensional data, with a emphasis on uncertainty quantification, bias mitigation, and interpretability. My work bridges the gap between theoretical ML and practical challenges in long-range transportation planning, travel behavior, and supply chain logistics.
 
 You can reach me at the following email (CV available upon request).
 
-*Email:* ugurel@uw.edu
+*Email:* ekin.ugurel@nyu.edu
 
 ## News
 * 2026 - Started a new position as a Postdoctoral Associate at New York University (NYU), working with [Professor Takahiro Yabe](https://www.takayabe.net/about-taka) and affliated with the [Center for Urban Science and Progress (CUSP)](https://engineering.nyu.edu/research/centers/cusp).
