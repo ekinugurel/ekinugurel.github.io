@@ -7,6 +7,10 @@ permalink: /research/
 ---
 
 ## Papers + Code
+**On predicting sociodemographics from mobility signals**            
+**Ekin Uğurel**, Cynthia Chen, Brian H. Y. Lee, Filipe Rodrigues            
+*Computers, Environment and Urban Systems*. 2026. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0198971526000220)
+
 **Beat the Morning Rush: Survival analysis-informed DNNs with collaborative filtering to predict precise departure times for home-to-work trips**      
 **Ekin Uğurel**, Gaoang Wang      
 *IEEE Open Journal of Intelligent Transportation Systems*. 2025. [[pdf]](https://ieeexplore.ieee.org/document/10897825)
