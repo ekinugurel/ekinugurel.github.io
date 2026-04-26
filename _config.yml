@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ekin Uğurel"
 title_separator          : "-"
 name                     : &name "Ekin Uğurel"
-description              : &description "Ekin Uğurel"
+description              : &description "Ekin Uğurel - Incoming Assistant Professor, University of Houston ISE"
 url                      : https://ekinugurel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekinugurel/ekinugurel.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ekin Uğurel"
   avatar           : "ekin.jpg"
-  bio              : "Postdoctoral Associate @ NYU Tandon, Center for Urban Science and Progress (CUSP)"
+  bio              : "Incoming Assistant Professor @ University of Houston ISE · Postdoctoral Associate @ NYU Tandon, Center for Urban Science and Progress (CUSP)"
   location         : "Brooklyn, NY"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : ekin.ugurel@nyu.edu
+  googlescholar    : "https://scholar.google.com/citations?user=5wpsREAAAAAJ&hl=en&oi=ao"
+  email            : eugurel@Central.UH.EDU
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

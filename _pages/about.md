@@ -8,48 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-<!---
-<p align="center">
-  <img src="https://github.com/ekinugurel/ekinugurel.github.io/blob/master/images/ekin.jpg?raw=True" alt="Photo" style="width: 300px;"/> 
-</p>
--->
+## About
 
-## About Me
+I am an incoming Assistant Professor in the [Department of Industrial and Systems Engineering](https://ise.egr.uh.edu/) at the [University of Houston](https://www.uh.edu/), joining in Fall 2026. I direct the [**Behavioral Machine Learning and Systems (BMLS) Lab**](https://ekinugurel.github.io/bmls-lab/), where we develop machine learning frameworks to model human and organizational decision-making within complex transportation and urban systems.
 
-I am a Postdoctoral Associate at New York University, affiliated with NYU Tandon and the Center for Urban Science and Progress (CUSP). I earned my PhD in Transportation Engineering from the University of Washington in December 2025, where I was lucky to be co-advised by [Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen) and [Shuai Huang](https://www.shuaihuang.info/). My doctoral work was partially supported by the [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships#:~:text=field%20of%20study.-,To%20be%20eligible%20to%20apply%20for%20this%20fellowship%2C%20students%20must,coursework%20completed%20at%20the%20UW.) and the [Valle Fellowship](https://www.ce.washington.edu/current/abroad/valle), which enabled me to spend time as a Visiting PhD student at the Technical University of Denmark, hosted by [Filipe Rodrigues](https://fprodrigues.com/). Prior to UW, I received my bachelor’s degree in Civil Engineering from the University of Texas at Austin, where I conducted research with [Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel), supported by several merit-based scholarships.
+I earned my PhD in Transportation Engineering from the University of Washington (2025), co-advised by [Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen) and [Shuai Huang](https://www.shuaihuang.info/). My doctoral work was partially supported by the [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships) and the [Valle Fellowship](https://www.ce.washington.edu/current/abroad/valle), which enabled a visiting PhD position at the Technical University of Denmark, hosted by [Filipe Rodrigues](https://fprodrigues.com/). Prior to UW, I received my B.S. in Civil Engineering (Honors) and a Minor in Business Foundations from the University of Texas at Austin, where I worked with [Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel).
 
-My research focuses on developing machine learning frameworks to model human and organizational decision-making within complex transportation and urban systems. I leverage probabilistic modeling, kernel methods, and representation learning to extract insights from high-dimensional data, with a emphasis on uncertainty quantification, bias mitigation, and interpretability. My work bridges the gap between theoretical ML and practical challenges in long-range transportation planning, travel behavior, and supply chain logistics.
+My research leverages probabilistic modeling, kernel methods, and representation learning to extract insights from high-dimensional mobility and urban data, with an emphasis on uncertainty quantification, bias mitigation, and interpretability. For a full overview of research directions and open positions, visit the [BMLS Lab website](https://ekinugurel.github.io/bmls-lab/).
 
-You can reach me at the following email (CV available upon request).
+I am **recruiting fully-funded PhD students for Fall 2026**. Strong backgrounds in ML, statistics, or transportation/systems engineering welcome.
 
-*Email:* ekin.ugurel@nyu.edu
+*Email:* eugurel@Central.UH.EDU *(CV available upon request)*
+
+---
 
 ## News
-* 03/2026 - New journal publication out! "On predicting sociodemographics from mobility signals" in _Computers, Environment and Urban Systems_ [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0198971526000220)
-* 03/2026 - **I will be joining the University of Houston Industrial and Systems Engineering department as a tenure-track Assistant Professor in Fall 2026!** I am recruiting for multiple fully-funded PhD positions. 
-* 01/2026 - Started a new position as a Postdoctoral Associate at New York University (NYU), working with [Professor Takahiro Yabe](https://www.takayabe.net/about-taka) and affliated with the [Center for Urban Science and Progress (CUSP)](https://engineering.nyu.edu/research/centers/cusp).
-* 2025 - New journal publication out! "From biases to opportunities: leveraging Location-Based-Service (LBS) data for next-generation transportation planning" in _Transportation Research Part C: Emerging Technologies_ [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X25004206)
-* 2025 - New journal publication out! "COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region" in _Transport Policy_ [[pdf]](https://www.sciencedirect.com/science/article/pii/S0967070X25003154)
-* 2025 - Started a visiting Ph.D. role with the [Machine Learning for Smart Mobility](https://mlsm.man.dtu.dk/) group at the Technical University of Denmark (DTU), supervised by [Professor Filipe Rodrigues](https://orbit.dtu.dk/en/persons/filipe-m-pereira-duarte-rodrigues).
-* 2025 - I hosted an interactive tutorial on human mobility analysis using passively-generated mobile data. Thanks [C2SMART](https://c2smarter.engineering.nyu.edu/) for the opportunity! [[recording]](https://nyu.zoom.us/rec/play/aHwso9CXD2t9aY0gnFRuS7t-9JjxAqFV-4CwGDSRpGGkj1CfzXlaD4GGMhK-ftHD5pyduTuWZx3VUL0f.y3RQX16gGy-Z1ml7?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnyu.zoom.us%2Frec%2Fshare%2FrmjI1B5ssOKGgnAvHFcxFo2TdINk7Glw_WH66b33GzFGiiNQh7hRn3lym1HbOnI0.7DK6VqIbH7VrZDdL) [[slides]](https://ekinugurel.github.io/files/C2Smarter_Mobility_Analysis_Tutorial_publishable.pdf) [[code]](https://github.com/ekinugurel/C2SMARTER_Mobility_Workshop)
-* 2025 - New journal publication out! "A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models" in the _ACM Journal on Computing and Sustainable Societies_ [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
-* 2025 - New journal publication out! "Beat the Morning Rush: Survival Analysis-Informed DNNs with Collaborative Filtering to Predict Departure Times" in the _IEEE Open Journal of Intelligent Transportation Systems_ [[pdf]](https://ieeexplore.ieee.org/document/10897825)
-* 2025 - New journal publication out! "Exploring biases in travel behavior patterns in big passively-generated mobile data from 11 U.S. cities" in the _Journal of Transport Geography_ [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X)
-* 2024 - Granted the Michael Kyte Region 10 Outstanding Student of the Year Award from PacTrans.
-* 2024 - New journal publication out! "Metropolitan Planning Organizations' Uses of and Needs for Big Data" in _Transport Findings_. [[pdf]](https://findingspress.org/article/127143-metropolitan-planning-organizations-uses-of-and-needs-for-big-data?auth_token=4-DxXNJb-JBO-Bp1SiJq)
-* 2024 - New journal publication out! "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning" in _Transportation Research Part B: Methodological_. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
-* 2024 - Served as a co-project lead on a _Data Science for Social Good_ (DSSG) project @ the eScience Institute. [[website]](https://dssg24-cf-fairness.github.io/website/)
-* 2024 - Joined Instacart as an Machine Learning (ML) PhD summer intern.
-* 2024 - Invited podium presentation at the 25th International Symposium on Transportation and Traffic Theory (ISTTT 25). [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
-* 2024 - New journal publication out! "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" in _Transportation Research Part C: Emerging Technologies_. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
-* 2024 - New preprint out! "Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces". [[pdf]](https://arxiv.org/abs/2401.10890)[[code]](https://github.com/ekinugurel/SatMobFusion)
-* 2024 - Invited workshop host at the 2024 Association of Metropolitan Planning Organizations (AMPO) on MPO uses of and needs for big data.
-* 2024 - Invited talk at the 2024 Annual INFORMS Conference in Seattle, WA on Behavioral-informed Analytics and Decision-making for Urban Transportation Systems.
-* 2023 - Invited talk at the 2023 Asia-Pacific Signal and Information Processing Association (APSIPA).
-* 2023 - Invited submission for ISTTT 25.
-* 2023 - Invited talk at the 2023 Annual INFORMS Conference in Phoenix, Arizona on Large-scale Data Analytics for Transportation Systems.
-* 2022 - Started summer internship as a Consulting Intern at Fehr & Peers in Seattle, WA.
-* 2022 - Invited talk at the 2023 Annual Transportation Research Board (TRB) Conference in Washington, DC on Correcting Missingness in Passively-generated Mobile data with Multi-task Gaussian Processes.
-* 2021 - Joined the [THINK](https://sites.uw.edu/thinklab/) lab at the University of Washington-Seattle.
-* 2021 - Graduated with a B.S. in Civil Engineering Honors and a Minor in Business Foundations from the University of Texas at Austin.
-* 2021 - Awarded a [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships#:~:text=field%20of%20study.-,To%20be%20eligible%20to%20apply%20for%20this%20fellowship%2C%20students%20must,coursework%20completed%20at%20the%20UW.) from the University of Washington.
+
+* **03/2026** — New paper: "On predicting sociodemographics from mobility signals" in *Computers, Environment and Urban Systems* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0198971526000220)
+* **03/2026** — Joining the University of Houston ISE department as a tenure-track Assistant Professor in Fall 2026. Recruiting multiple fully-funded PhD positions.
+* **01/2026** — Started as Postdoctoral Associate at NYU Tandon, affiliated with the [Center for Urban Science and Progress (CUSP)](https://engineering.nyu.edu/research/centers/cusp), working with [Professor Takahiro Yabe](https://www.takayabe.net/about-taka).
+* **2025** — New paper: "From biases to opportunities: leveraging LBS data for next-generation transportation planning" in *Transportation Research Part C* [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X25004206)
+* **2025** — New paper: "COVID & telecommuting-induced changes in individual activity and travel patterns" in *Transport Policy* [[pdf]](https://www.sciencedirect.com/science/article/pii/S0967070X25003154)
+* **2025** — New paper: "A Framework for Measuring and Benchmarking Fairness of Generative Crowd-Flow Models" in *ACM Journal on Computing and Sustainable Societies* [[pdf]](https://dl.acm.org/doi/10.1145/3724409) [[code]](https://github.com/DSSG24-CF-Fairness/crowdflow-fairness)
+* **2025** — New paper: "Beat the Morning Rush: Survival Analysis-Informed DNNs with Collaborative Filtering to Predict Departure Times" in *IEEE Open Journal of ITS* [[pdf]](https://ieeexplore.ieee.org/document/10897825)
+* **2025** — Visited the [Machine Learning for Smart Mobility](https://mlsm.man.dtu.dk/) group at DTU, supervised by [Professor Filipe Rodrigues](https://orbit.dtu.dk/en/persons/filipe-m-pereira-duarte-rodrigues).
+* **2025** — Tutorial on human mobility analysis using passively-generated mobile data [[recording]](https://nyu.zoom.us/rec/play/aHwso9CXD2t9aY0gnFRuS7t-9JjxAqFV-4CwGDSRpGGkj1CfzXlaD4GGMhK-ftHD5pyduTuWZx3VUL0f.y3RQX16gGy-Z1ml7?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fnyu.zoom.us%2Frec%2Fshare%2FrmjI1B5ssOKGgnAvHFcxFo2TdINk7Glw_WH66b33GzFGiiNQh7hRn3lym1HbOnI0.7DK6VqIbH7VrZDdL) [[slides]](https://ekinugurel.github.io/files/C2Smarter_Mobility_Analysis_Tutorial_publishable.pdf) [[code]](https://github.com/ekinugurel/C2SMARTER_Mobility_Workshop)
+* **2024** — Granted the Michael Kyte Region 10 Outstanding Student of the Year Award from PacTrans.
+* **2024** — New paper: "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach" in *Transportation Research Part B* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001887) [[code]](https://github.com/ekinugurel/physics-regularized-MTGP)
+* **2024** — New paper: "Correcting Missingness in Passively-Generated Mobile Data with Multi-Task Gaussian Processes" in *Transportation Research Part C* [[pdf]](https://www.sciencedirect.com/science/article/pii/S0968090X24000445) [[code]](https://github.com/ekinugurel/GPSImpute)
+* **2024** — Joined Instacart as a Machine Learning PhD summer intern.
+* **2021** — Joined the [THINK](https://sites.uw.edu/thinklab/) lab at the University of Washington.
+* **2021** — Graduated B.S. Civil Engineering (Honors) + Minor in Business Foundations, UT Austin. Awarded the College of Engineering Dean's Fellowship from UW.

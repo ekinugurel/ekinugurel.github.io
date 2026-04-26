@@ -2,6 +2,11 @@
 
 <!-- start custom head snippets -->
 
+<!-- BMLS-consistent Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet"/>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -16,12 +21,12 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
 <link rel="manifest" href="{{ base_path }}/images/manifest.json?v=M44lzPylqQ">
-<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#C8102E">
 <link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
-<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileColor" content="#C8102E">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#FAFAF8">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
@@ -34,5 +39,147 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- BMLS visual consistency overrides -->
+<style>
+  /* Typography — match BMLS Lab */
+  body {
+    font-family: 'DM Sans', -apple-system, sans-serif !important;
+    background-color: #FAFAF8 !important;
+    color: #1A1712 !important;
+  }
+
+  h1, h2, h3 {
+    font-family: 'DM Serif Display', Georgia, serif !important;
+    color: #1A1712 !important;
+    font-weight: 400 !important;
+  }
+
+  /* Masthead — warm white bar, UH red accent */
+  .masthead {
+    background-color: #FAFAF8 !important;
+    border-bottom: 1px solid #E2DDD4 !important;
+    backdrop-filter: blur(10px);
+  }
+
+  .masthead__menu-item a,
+  .greedy-nav a {
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 13px !important;
+    color: #7A6F63 !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.01em;
+    transition: color 0.15s ease !important;
+  }
+
+  .masthead__menu-item a:hover,
+  .greedy-nav a:hover {
+    color: #C8102E !important;
+  }
+
+  /* Site title in masthead */
+  .masthead__menu-item--lg a {
+    font-family: 'DM Serif Display', Georgia, serif !important;
+    font-size: 17px !important;
+    color: #1A1712 !important;
+    font-weight: 400 !important;
+  }
+
+  .masthead__menu-item--lg a:hover {
+    color: #C8102E !important;
+  }
+
+  /* BMLS Lab nav link — highlight it */
+  .masthead__menu-item a[href*="bmls-lab"] {
+    color: #C8102E !important;
+    font-weight: 500 !important;
+  }
+
+  .masthead__menu-item a[href*="bmls-lab"]:hover {
+    color: #a80e26 !important;
+  }
+
+  /* Links */
+  a {
+    color: #C8102E !important;
+    transition: color 0.15s ease;
+  }
+
+  a:visited {
+    color: #a80e26 !important;
+  }
+
+  a:hover {
+    color: #a80e26 !important;
+  }
+
+  /* Author sidebar */
+  .author__name {
+    font-family: 'DM Serif Display', Georgia, serif !important;
+    color: #1A1712 !important;
+  }
+
+  .author__bio {
+    font-family: 'DM Sans', sans-serif !important;
+    color: #7A6F63 !important;
+    font-size: 13px !important;
+  }
+
+  .author__urls a {
+    font-family: 'DM Sans', sans-serif !important;
+    color: #7A6F63 !important;
+    font-size: 13px !important;
+  }
+
+  .author__urls a:hover {
+    color: #C8102E !important;
+  }
+
+  /* Page content */
+  .page__content {
+    font-family: 'DM Sans', sans-serif !important;
+    color: #4A4238 !important;
+    line-height: 1.75 !important;
+  }
+
+  .page__content p,
+  .page__content li {
+    font-size: 15px !important;
+    color: #4A4238 !important;
+  }
+
+  .page__content strong {
+    color: #1A1712 !important;
+    font-weight: 600 !important;
+  }
+
+  /* Horizontal rules */
+  hr {
+    border-color: #E2DDD4 !important;
+  }
+
+  /* Footer */
+  .page__footer {
+    background-color: #1A1712 !important;
+    border-top: none !important;
+  }
+
+  .page__footer-copyright {
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 12px !important;
+    color: #7A6F63 !important;
+  }
+
+  /* Greedy nav button (mobile hamburger) */
+  .greedy-nav button {
+    background-color: transparent !important;
+  }
+
+  .navicon,
+  .navicon::before,
+  .navicon::after {
+    background: #7A6F63 !important;
+  }
+</style>
 
 <!-- end custom head snippets -->
