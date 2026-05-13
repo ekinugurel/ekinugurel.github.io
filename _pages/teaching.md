@@ -12,10 +12,14 @@ Autumn 2024 - Sole Instructor
 
 Winter 2023 - Teaching Assistant
 
+**Postdoctoral Research Mentor**                                        
+Spring 2026 - Qingyi Zheng (M.S. - Guided Study)                           
+Summer 2026 - Nahush Shrivatsa (M.S. - The Transformative Research Experience Mentor)
+
 **Predoctoral Research Mentor**          
 Summer 2023 - Liam Gene Ping Chu (Undergraduate)            
 Summer 2023 - Mia Pham (Undergraduate)               
-Spring 2023 - Kaylene Marie Gell (Undergraduate)        
+Spring 2023 - Kaylene Marie Gell (Undergraduate)
 
 **Ramshorn Mentor**                  
 2019-2020 - Cockrell School of Engineering
