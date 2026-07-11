@@ -24,6 +24,8 @@ I am **recruiting fully-funded PhD students for Fall 2026**. Strong backgrounds 
 
 ## News
 
+* **07/2026** - Our paper, "Towards welfare-oriented recommendations in activity-travel behavior" was accepted to the [2026 ACM Conference on Recommender Systems](https://recsys.acm.org/recsys26/) (**18% acceptance rate**). See you in Minneapolis! (proceedings to follow)
+* **07/2026** - New preprint: "AI-Assisted Digital Platforms Reshape Activity-Travel Behavior" [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7080958)
 * **03/2026** — New paper: "On predicting sociodemographics from mobility signals" in *Computers, Environment and Urban Systems* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0198971526000220)
 * **03/2026** — Joining the University of Houston ISE department as a tenure-track Assistant Professor in Fall 2026. Recruiting multiple fully-funded PhD positions.
 * **01/2026** — Started as Postdoctoral Associate at NYU Tandon, affiliated with the [Center for Urban Science and Progress (CUSP)](https://engineering.nyu.edu/research/centers/cusp), working with [Professor Takahiro Yabe](https://www.takayabe.net/about-taka).
