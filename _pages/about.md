@@ -24,6 +24,7 @@ I am **recruiting fully-funded PhD students for Fall 2026**. Strong backgrounds 
 
 ## News
 
+* **08/2026** - Our paper led by [Yuteng Zhang](https://scholar.google.com/citations?user=wu8mlCQAAAAJ&hl=en), "Causal-Flow SCM: Calibrated Forecasting and Counterfactual Prioritization for Airport Delay Propagation" was accepted to the [2026 ACM SIGSPATIAL Conference (main track)](https://sigspatial2026.sigspatial.org/) (**23% acceptance rate**). See you in Riverside! (proceedings to follow)
 * **07/2026** - Our paper, "Towards welfare-oriented recommendations in activity-travel behavior" was accepted to the [2026 ACM Conference on Recommender Systems](https://recsys.acm.org/recsys26/) (**18% acceptance rate**). See you in Minneapolis! (proceedings to follow)
 * **07/2026** - New preprint: "AI-Assisted Digital Platforms Reshape Activity-Travel Behavior" [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7080958)
 * **03/2026** — New paper: "On predicting sociodemographics from mobility signals" in *Computers, Environment and Urban Systems* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0198971526000220)
