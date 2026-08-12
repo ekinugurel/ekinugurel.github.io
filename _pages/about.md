@@ -10,13 +10,13 @@ redirect_from:
 
 ## About
 
-I am an incoming Assistant Professor in the [Department of Industrial and Systems Engineering](https://www.ise.uh.edu/) at the [University of Houston](https://www.uh.edu/), joining in Fall 2026. I direct the [**Behavioral Machine Learning and Systems (BMLS) Lab**](https://ekinugurel.github.io/bmls-lab/), where we develop machine learning frameworks to model human and organizational decision-making within complex transportation and urban systems.
+I am an Assistant Professor in the [Department of Industrial and Systems Engineering](https://www.ise.uh.edu/) at the [University of Houston](https://www.uh.edu/). I direct the [**Behavioral Machine Learning and Systems (BMLS) Lab**](https://ekinugurel.github.io/bmls-lab/), where we develop machine learning frameworks to model human and organizational decision-making within complex transportation and urban systems. Prior to this, I was a Postdoctoral Associate at the [Center for Urban Science and Progress](https://engineering.nyu.edu/research/centers/cusp), New York University.
 
 I earned my PhD in Transportation Engineering from the University of Washington (2025), co-advised by [Cynthia Chen](https://www.ce.washington.edu/facultyfinder/cynthia-chen) and [Shuai Huang](https://www.shuaihuang.info/). My doctoral work was partially supported by the [College of Engineering Dean's Fellowship](https://www.engr.washington.edu/current/deans_scholarships) and the [Valle Fellowship](https://www.ce.washington.edu/current/abroad/valle), which enabled a visiting PhD position at the Technical University of Denmark, hosted by [Filipe Rodrigues](https://fprodrigues.com/). Prior to UW, I received my B.S. in Civil Engineering (Honors) and a Minor in Business Foundations from the University of Texas at Austin, where I worked with [Christian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel).
 
-My research leverages probabilistic modeling, kernel methods, and representation learning to extract insights from high-dimensional mobility and urban data, with an emphasis on uncertainty quantification, bias mitigation, and interpretability. For a full overview of research directions and open positions, visit the [BMLS Lab website](https://ekinugurel.github.io/bmls-lab/).
+My research leverages probabilistic modeling, kernel methods, and representation learning to extract insights from high-dimensional mobility and urban data, with an emphasis on uncertainty quantification, bias mitigation, and interpretability. I use this methodological toolkit to learn models of behavior, primarily in travel and transportation contexts. For a full overview of research directions and open positions, visit the [BMLS Lab website](https://ekinugurel.github.io/bmls-lab/).
 
-I am **recruiting fully-funded PhD students for Fall 2026**. Strong backgrounds in ML, statistics, or transportation/systems engineering welcome.
+I am **recruiting fully-funded PhD students for Spring 2027**. Strong backgrounds in ML, statistics, or transportation/systems engineering welcome.
 
 *Email:* eugurel@Central.UH.EDU *(CV available upon request)*
 
