@@ -84,6 +84,7 @@ author:
   avatar           : "ekin.jpg"
   bio              : "Assistant Professor @ the University of Houston ISE"
   location         : "Houston, TX"
+  cv               : "/files/CV_EU.pdf"  # sidebar CV link; replace the PDF in /files to update
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xp6PAL0AAAAJ&view_op=list_works"
