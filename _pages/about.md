@@ -18,12 +18,13 @@ My research leverages probabilistic modeling, kernel methods, and representation
 
 I am **recruiting fully-funded PhD students for Spring 2027**. Strong backgrounds in ML, statistics, or transportation/systems engineering welcome.
 
-*Email:* eugurel@Central.UH.EDU *(CV available upon request)*
+*Email:* eugurel@Central.UH.EDU
 
 ---
 
 ## News
 
+* **11/2026** - Our paper led by [Nahush Shrivatsa](https://scholar.google.com/citations?user=cUALGg0AAAAJ&hl=en&oi=sra), "[GeoRecSim: A Multi-Agent Testbed for Recommender System Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cUALGg0AAAAJ&citation_for_view=cUALGg0AAAAJ:u-x6o8ySG0sC)", received the Best Paper Runner-Up award at the 9th ACM SIGSPATIAL Workshop on Geospatial Simulation (GeoSim 2026). [[pdf]](https://dl.acm.org/doi/abs/10.1145/3849737.3849837)
 * **08/2026** - Our paper led by [Yuteng Zhang](https://scholar.google.com/citations?user=wu8mlCQAAAAJ&hl=en), "Causal-Flow SCM: Calibrated Forecasting and Counterfactual Prioritization for Airport Delay Propagation" was accepted to the [2026 ACM SIGSPATIAL Conference (main track)](https://sigspatial2026.sigspatial.org/) (**23% acceptance rate**). See you in Riverside! (proceedings to follow)
 * **07/2026** - Our paper, "Towards welfare-oriented recommendations in activity-travel behavior" was accepted to the [2026 ACM Conference on Recommender Systems](https://recsys.acm.org/recsys26/) (**18% acceptance rate**). See you in Minneapolis! (proceedings to follow)
 * **07/2026** - New preprint: "AI-Assisted Digital Platforms Reshape Activity-Travel Behavior" [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7080958)
